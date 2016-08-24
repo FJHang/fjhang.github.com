@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://fjhang.github.io/app.ipa</string>
+					<string>https://fjhang.github.io/Test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://fjhang.github.io/app.png</string>
+					<string>https://fjhang.github.io/Test.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://fjhang.github.io/app.png</string>
+					<string>https://fjhang.github.io/Test.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.reeand.TestDabao</string>
+				<string>com.reeand.Test</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>TestDabao</string>
+				<string>Test</string>
 			</dict>
 		</dict>
 	</array>
